@@ -113,8 +113,10 @@ now dense reconstruction
 - a 'triangulated irregular network' TIN is generated, a mesh, onto which textures can be mapped using regular graphics software
 
 
-#Computational Creativity and the ontological meaning of your models
+# Computational Creativity and the ontological meaning of your models
+
 Jan 29, 2018
+
 Follow along at  j.mp/3812-01-29
 
 Exiftool
