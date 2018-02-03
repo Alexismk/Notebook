@@ -23,50 +23,53 @@ Mark Down
     -	Let’s your write markdown on the screen and lets you see the formatting 
     
     
- Digital History Lecture Notes – HIST 2812 – Week 2, Jan 15
+# Digital History Lecture Notes – HIST 2812 – Week 2, Jan 15
 
 https://shawngraham.github.io/presentations/3812-jan15.html#/1
 
 Intro to Photogrammetry
-•	Part of a photographic approach to mapping , restoration
-•	Recording of material in space 
-•	part of a suite of approaches related to geomatics, computer vision
-o	many ways of getting this done – most popular is “structure for motion”
-o	required YOU to do the rotating 
-	videos can be cut into stills and 3D models could be created form stills 
-o	GOOGLE MAPS – mapping buildings to produce 3D images (helps sefl driving cars know what is where)
-•	the kind we now see in apps & getting more user-friendly is structure from motion 
+
+- Part of a photographic approach to mapping , restoration
+- Recording of material in space 
+		- part of a suite of approaches related to geomatics, computer vision
+- many ways of getting this done – most popular is “structure for motion”
+- required YOU to do the rotating 
+- videos can be cut into stills and 3D models could be created form stills 
+
+GOOGLE MAPS 
+– mapping buildings to produce 3D images (helps sefl driving cars know what is where)
+- the kind we now see in apps & getting more user-friendly is structure from motion 
 
  
-•	laser system mapping how fast light travels to map out an area. 
-•	VR systems use a scaled down version 
+ - laser system mapping how fast light travels to map out an area. 
+- VR systems use a scaled down version 
  
 
 3D models can be created so that when scanned with a QR code, 3D images cam pop up from the page.
 Videos can allow you to make 3D images and models  
 
-THNK ABOUT SUSTAINABILITY WHEN WORKING WITH TECHNOOGIES, APPS AND SYSTEMS
+THNK ABOUT SUSTAINABILITY WHEN WORKING WITH TECHNOLOGIES, APPS AND SYSTEMS
 	Will this be available in a few months’ time? Years?
 SKETCHFAB is the new popular system for 3D models 
 
-Augmented reality built with “Unity”
-•	“The Diary In The Attic”
-o	You need a framing story to validate why you are doing “this”
-•	Window to look through to see a different reality
-o	Popular with museums and heritage sights 
+# Augmented reality built with “Unity”
+- “The Diary In The Attic”
+- You need a framing story to validate why you are doing “this”
+- Window to look through to see a different reality
+- Popular with museums and heritage sights 
 
 Archeology consumes and destroys what it discovers. It constructs knowledge by framing everything in its context
-•	Archeologists and created digital space reconstructions in order to always be able to understand a site aot its different points
-•	English Heritage: Photogrammetric Applications for Cultural Heritage
+- Archeologists and created digital space reconstructions in order to always be able to understand a site aot its different points
+- English Heritage: Photogrammetric Applications for Cultural Heritage
 
 Basic Principles
-•	image capture
-o	clean, clear images from a variety of angles and depths
-•	image matching
-•	dense point cloud generation
-o	creates dots that connect together to make an objcet
-•	secondary product generation
-•	analysis / presentation
+- image capture
+- clean, clear images from a variety of angles and depths
+- image matching
+- dense point cloud generation
+		- creates dots that connect together to make an objcet
+- secondary product generation
+- analysis / presentation
 
  
 
@@ -75,41 +78,39 @@ Take overlapping images; you want a high degree of overlap
 Never get a good model with anything less than 15 photos – 30 is overkill
 
  
-•	The computer identifies through colour and distance -  called tie points 
-•	tie points are matched
-•	the computer ties metadata to every image you take 
-o	source tracking
-o	includes size of the image, focal depth, 
-o	if you know that information AND overlapping point, the computer works out WHERE the camera was when you took that photograph
+- The computer identifies through colour and distance -  called tie points 
+- tie points are matched
+- the computer ties metadata to every image you take 
+- source tracking
+- includes size of the image, focal depth, 
+- if you know that information AND overlapping point, the computer works out WHERE the camera was when you took that photograph
 
-•	dense point cloud generated :
- 
+- dense point cloud generated :
 chief ray is the line from the object, through the lens, to the image plate
- 
 Intersection of many of these allows the software to work out the location of the point in space
  
 
 Chief ray & principle of intersection, collinearity
-•	knowing the 'interior and exterior' orientation of the camera - its internal arrangements, including lens distortion, focal length and so on from the metadata bundled with the image, allows software to work out the position of the camera viz points of overlap in the images
-•	the intersection of rays then allows us to work out the location of these points in space
-•	resulting point cloud has an arbitrary scale and coordinate frame (ways around this)
+- knowing the 'interior and exterior' orientation of the camera - its internal arrangements, including lens distortion, focal length and so on from the metadata bundled with the image, allows software to work out the position of the camera viz points of overlap in the images
+- the intersection of rays then allows us to work out the location of these points in space
+- resulting point cloud has an arbitrary scale and coordinate frame (ways around this):
 
 DOWNLOAD “MeshLab” OF “blender
 Fills holes to make the model look beautiful 
 Sources of other models:
-•	sketchfab.com
-•	thingverse
-•	smithsonian (hit the info button on a model for the download options)
+- sketchfab.com
+- thingverse
+- smithsonian (hit the info button on a model for the download options)
 
 sfm process
-•	identifies control points that are visible in multiple images (default in agisoft photoscan is 40 000 per image)
-•	best control points are then matched
-•	then triangulation (more or less) to work out the relative position & orientation of every image
-•	this is the sparse reconstruction
+- identifies control points that are visible in multiple images (default in agisoft photoscan is 40 000 per image)
+- best control points are then matched
+- then triangulation (more or less) to work out the relative position & orientation of every image
+- this is the sparse reconstruction
 
 now dense reconstruction
-•	repeats the process above but for all possible control points
-•	a 'triangulated irregular network' TIN is generated, a mesh, onto which textures can be mapped using regular graphics software
+- repeats the process above but for all possible control points
+- a 'triangulated irregular network' TIN is generated, a mesh, onto which textures can be mapped using regular graphics software
 
 
 #Computational Creativity and the ontological meaning of your models
@@ -153,11 +154,11 @@ The Victims of Vesuvius: their lives, afterlives, and after-after live.
 When digging, they encountered voids. They poured plaster of paris inside these voids and they ended up with casts of furniture and eventually, bodies. 
 
 Pseudomorph-cum-effigy.
-•	Casts of cast’s causes details to be lost along the way 
-•	Reliquary because they sometimes till contain human remains (bones)
-•	Made into 3d images
-•	Resin is injected so they can CAT scan then and detect bone material
-•	Finally, they can be 3 printed 
+- Casts of cast’s causes details to be lost along the way 
+- Reliquary because they sometimes till contain human remains (bones)
+- Made into 3d images
+- Resin is injected so they can CAT scan then and detect bone material
+- Finally, they can be 3 printed 
 	
 How do we understand the bodies of Pompey? What is the meaning of these recreated things? Are the casts considered human bodies?
 
