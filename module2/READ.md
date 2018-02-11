@@ -2,7 +2,7 @@
 
 
 ### Notion of authenticity, and ownership
-- And Warhol's work was often ripped off of other graphic artists or photographer’s.
+- Andy Warhol's work was often ripped off of other graphic artists or photographer’s.
 - Some debate if his work should be considered art or authentic because he often didn't even have a direct hand in making them. 
 
 
