@@ -1,9 +1,12 @@
 
-Object info 
+# Module 1: Random Info and Thoughts
+
+
+## Object info 
 - why you selected the object nad why we should care 
 
 
-Paradata 
+## Paradata 
 - What we read, what we are trying to accomplish and why it matters 
 - think about where it sits on the graph thing 
 - could include in paradata?
@@ -23,7 +26,7 @@ Obscuring historical value of the Brillo box and company and instead making it a
 The "art" and Warhol's intention obscures the brilliance of the actual design which is not his.
 Colours are that of the American flag and represent American culture to Warhol. 
  
-Process notes
+## Process notes
 - Our own notes along the way 
 - describe intents, glitch’s, things breaking, things NOT WORKING OUT 
 - think about authenticity, aura, trust of the thing you are making and ANYTHING that gets digitized 
