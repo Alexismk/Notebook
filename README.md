@@ -186,3 +186,122 @@ What is the ontological meaning of your projects?
 - how do your models fit on these frameworks? why?
 - what do you see when you try to map the moments, the glitches, the voids and spaces?
 
+
+
+
+# Feb 05 – Module 2: History is a Remix
+https://shawngraham.github.io/presentations/3812-feb5.html#/11
+Epoiesen - “how to make”
+
+### Scary Mary – remixed and recomposing something to show it in a different light
+- Takes its main parts and remixing it
+
+### Watling Street 
+- Remixing archeological data in a way that makes certain realities more apparent. We can understand the economic prosperity and distribution of roman coins in Britain through SOUND. 
+- It is a remix of someone else’s code
+
+Sometime it is the CODE and the underlying data that is remixed
+Sometimes remixing does more harm than good 
+
+Daniken’s belief that the ancients had help from aliens. It is a form of racism and reveals more about the people that made it.
+- Cherry picks things that suit his argument 
+
+Joan Hammond uses original iconography to remix Department of Rec signs to assert a new meaning. 
+- Her photography uses the visual rhetoric of the ministry right down to the font. He has the research that support each of her remixes.
+
+O’Donnell, the Un- essay, University of Lethbridge
+
+Huge intellectual property issues when we start screwing with other people’s property. 
+Lawerence Lessig - Creative Commons (Wiki Bio)
+Aaron Swartz - Internet Hacktivist (Wiki Bio)
+
+### Is it compelling or truthful?
+
+ 
+
+### The 're' part is problematic. 
+### A mix brings something new into being, something new from the source materials that was always latent.
+
+
+
+
+
+
+
+### Deformance & Interpretation, McGann and Samuels
+
+- The act of making something is as important as making the thing itself 
+- When a poet preforms – elements become more apparent in the poem. 
+- Deformance almost always comes back to te original thing 
+- About pushing things until they break, and understanding something from the broken pieces 
+
+ 
+What is the essence of the historical method?
+How do you craft an argument from documents?
+- Sometimes it is hard to change our historical method
+- One way of remixing is through our digital history tools
+
+
+### One DigHist Approach: Topic Models
+- document remixed as distributions of words
+- visualizations tend to be network graphs or histograms
+- Graphs limit us where as this method is….weirder?
+- Make things stranger  and understand it in a new way 
+
+## A Non-Exhaustive List of Possible Ways to Mix History
+
+
+### Sonification
+WW1 Diaries of Robert Lindsay Mackay as Sound Cloud
+- Recorded most common words and they were condensed played back
+- Intensity of his exeirences
+Intro to Sonification tutorial
+- Maybe your writing about it can be produced into sound 
+- Generate an empathy- we no longer see it as just a document 
+
+
+### Twitterbots
+Two Headlines
+Trove Bots For All
+- Generate your own twitter bot that grabs materializes from an archive and tweets them out 
+- Glitch.com remixes code so you have the code to make your own bot – different levels of automation 
+Vintage Face Depot
+- Humanize the archives
+Twitterbots via Tracery tutorial
+
+
+### Generative Grammars
+Sources from newspapers talking about bones (mad libs)
+- Newpapers used reprints and stile from eachother 
+ 
+Tracery.io editor
+
+
+### Recurrent Neural Networks
+If you feed it text it learns how to speak like the input 
+- The Robotic Edward Gibbon
+- A Newly Discovered Ancient Greek Play
+
+### Maps
+HistoryPin
+Overlay historical photographs and overlay them in physical space 
+
+### 3d Scene Mashups
+SketchFab Mashup 1 from Erik Varvel on Vimeo.
+
+### 3d File Mashups
+Pericles an the lab
+- Entering the realm of political cartooning 
+•	Using Meshmixer
+•	Using Meshlab
+
+WHAT COULD I MESH THIS WITH TO SAY SOMETHING NEW ABOUT MY MODEL (new environment? Maybe on Sketchfab? Look for creative commons licences stuff. Can be downloaded from museum accounts – Smithsonian, British Museum)
+
+Other questions:
+Where is authority here?
+Where is aura?
+Who is the author?
+
+MAKE AN EXTRA COPY OF YOUR OBJECT
+You could glitch the text file data?
+
