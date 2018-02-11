@@ -47,6 +47,3 @@ include things that fail
 -	Sketch fab British Museum Digital Humanities 
 -	Original files in GitHub
 
-
-
-***side note: I'm note sure how to made this a "readmd" file???
