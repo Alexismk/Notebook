@@ -305,3 +305,164 @@ Who is the author?
 MAKE AN EXTRA COPY OF YOUR OBJECT
 You could glitch the text file data?
 
+
+
+
+# Week 6- Feb 12 - Museums and 3d Scanning - fears, issues, and opportunities
+
+## What CAN you build for module 2??
+
+### Model: 
+-	You can mix/remix things 
+o	Roman Woman in a well
+	2 different marbles, 2 different time periods imposed on each other
+-	MESH MIXER allows you mix 2 models easily
+o	Better than mesh lab
+o	“reduce triangles”, “Decimate the mesh”
+	Reduces the complexity while maintaining the appearance
+	Makes the model easier to work with 
+-	Sketchfab editing allows you to set which view it the first initial view, among other things 
+o	YOU CA USE AN EXISTING MODEL ON SKETCHFAB
+o	British museum and the Smithsonian has a good collection 
+### Sound
+-	Sonify underlying data
+
+AS LONG AS YOU TRANSFORMING THE INITIAL MODEL 
+Twitter bot may be better for the 3rd module – giving your model and underlying experience 
+
+# Museums and Reproductions
+https://shawngraham.github.io/presentations/3812-feb12.html#/1
+
+-	Filling museums with replicas is a long standing process in museums. 
+-	Most museums are filled with plaster casts
+o	I highly skilled process 
+
+### Early Motivations:
+-	Desire to make plaster casts goes along with the rediscovery of antiquity and the desire to reproduce them
+-	People are collecting these things and the casts are circulating and creating a refined taste in art 
+-	Using the casts to teach artistic what constitutes good art 
+-	New governments at this time and the fall of the monarchy – art in the sense of nationalism
+o	“we are the new romans” imperial though that is expressed through this art
+o	Encyclopedia museum content with showing these casts 
+
+### Atelier de Moulage
+-	There is a point when the casts are not enough….
+-	Competitive race amongst the museums to find beautiful  pieces to go into their museum and casts are no longer sufficient 
+-	Casts falling out of favour because they are too widespread and they were devalued 
+
+### Cast Courts, Great Exhibition 1855
+-	First great display of the worlds treasures 
+
+
+## Industrialization
+
+### Cast courts at the V&A open in 1873
+-	Before that casts were about having beautiful object, here it is all about education and forming tastes
+-	Educational thread 
+
+
+## Industrialization and Academia
+-	Important for the training of scholars because that mean that they did not have to travel to Rome. They could still do scholarship because they had 1:1 models
+-	Imposition of regularization and breaking things down to tinnier tasks
+-	Academics get interested in classifications, (social Darwinism)
+
+
+### “Portage” 
+-	expeditions to Egypt in which they would split anything they found between them and the king
+
+
+### Museo della Civilta' Romana
+-	Only becomes a state in the late 1800s. Mousseline decides fascism would be the new direction.
+-	He has a big world exposition in 1942
+o	Fascism Epocot
+-	This is the epicenter of the expo 
+-	Filled entirely with plaster casts
+-	Not about forming tastes but about forming political taste. Showing the greatness of Rome, he’s also showing that others took all their treasures and that they can only show replicas. A promise that they will get them back 
+-	Making connection between the greatness of the roman empire and the greatness of the fascist empire 
+-	NOT JUST ABOUT THE REPLICA BUT ABOUT THE CONTEXT OF DISPLAY 
+-	Egyptian architecture 
+
+
+## Casts to Cast-offs
+
+"Whether seen as dead bodies, cheap replicas, or dusty specimens, the casts were no longer awarded any artistic value"
+
+-	Casts are a tool 
+-	Long traditions of associating these casts with death and decay 
+-	Totally out of fashion by the 70s and museums got rid of their casts
+
+
+### Redemption
+-	Realisation that for a lot of ancient monuments and artefacts, the casts were the only records we had
+-	Due to war and environmental damage, they were being destroyed 
+-	People realize that they have intrinsic historical interest, we can also mess with them more (painted statues)
+
+
+## And How Have Museums Dealt With This?
+
+## Problems for museums
+-	Will they allow models and modeling?
+-	Will they allow data to be downloaded?
+-	Will they allow data to be remixed?
+-	Will they charge a fee?
+
+Bad lighting conditions are to prevent photography.
+
+They are not equipped with the fact that you or I could go in and copy a model 
+
+LEGAL PROBLEM
+
+Other museums will charge insane fees for digital copies, in which you are not allowed to copy. 
+
+
+## What is the position of Canadian Museums? 
+-	Most probably have no official policy 
+-	Linked open data – break down of what the object is, in a format that other computers can read 
+-	WHAT IF the 3D data you have had that capability 
+
+
+## The Bigger Fear: Misuse
+-	If we provide this data, how do we know someone isn’t going to do something bad with it 
+-	Reputation management is a big fear for cultural organizations who make this info available 
+o	The fact that the information is digital makes it more attainable and more difficult/risky 
+
+
+-	Think about the full biography of the object in the first place. Are you doing damage in some fashion? Is there something you are doing to mitigate it. 
+
+
+## Answering these questions requires infrastructure
+Concerning:
+-	recording methods and metadata, 
+-	digital object discovery and access, 
+-	citation of digital objects, 
+-	analysis and study, 
+-	digital object reuse and repurposing, 
+-	The critical role of a national/international digital archive.
+
+Very few have thought that addressing these concerns require infrastructure 
+
+It requires dollars and investments 
+
+
+Developing a 3-D Digital Heritage Ecosystem: from object to representation and the role of a virtual museum in the 21st century
+
+Fred Limp, Angie Payne, Katie Simon, Snow Winters and Jack Cothren
+
+http://intarch.ac.uk/journal/issue30/1/toc.html 
+
+
+Michael carter points out the problem of the loosened copy...
+-	Things we ca do to mitigate these problems like copies that wander, how do you acknowledge come from, how do you tie it back to its original place where it came from 
+-	3D objects are vertices with connection between them
+-	He connects that to the external world (?)
+-	What if we embed al  this info about the object to EACH POINT in the model
+o	That model could then be transformed, and the chances of deleting all the info would be slim 
+o	The record of transformations is built into the model itself
+o	The model became a representation of change itself 
+-	He added meta data to every point 
+
+
+Problems: Large files and increased data
+
+Each cell in the entire body contains your DNA data
+
