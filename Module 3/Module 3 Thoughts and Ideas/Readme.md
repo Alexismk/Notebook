@@ -10,7 +10,7 @@ Is all about the IMMERSIVE experience
 o	Twitter bot – things talk back to you 
 
 
-#### Andy Warhol Quote genorator twitter bot
+#### Andy Warhol Quote generator twitter bot
 mechanized yet speaks to you - like his art 
 * he always wanted to be a machine
 it is the meaning that you derive form it is the most important 
@@ -35,4 +35,4 @@ wrote it in GitHub and screen shotted it  to make an image
 Chose a free for use photo i found online. I chose one that was not just a simple photograph of him, but an image that was manipulated and edited in a way that reflected his own style of work. in this way he looks less liek a human, and more like his own work and a machine creation.
 
 
-contempaltion of his tweets function like his obsucre art work. 
+contemplation of his tweets function like his obscure art work. 
