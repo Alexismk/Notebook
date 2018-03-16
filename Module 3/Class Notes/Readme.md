@@ -95,3 +95,58 @@ Valuable to historians because
 AR could be useful for public history 
 Fielddaylab.org can help you make and ARG 
 
+
+
+
+# Mar 05 - History in Videogames
+
+#### Kingdom Come: Deliverance
+
+- The othering that takes place – mercenary armies that are considered savage
+- Decidedness what IS and isn’t important to the historical past 
+- Decisions in what stays and is left out matters- this game touts realism 
+- Impossible to show the entire scope of human experience
+- The silences says more about this history itself
+- This game has to decide what warrants representation 
+
+
+What does authenticity look like in this game?
+
+- Focuses on 9 square km in Bohemia
+- Huge melting top and it was not uncommon to find people of colour 
+- Representation isn’t a priority 
+- The choice of what gets represented and what is omitted speaks to current events
+o	Heroes – bohemians
+o	Villains – the “other”, different, gay characters
+- Argument that is fully in line with modern ideas in the Czech republic 
+- Choosing to represent elements of Czech history in a certain way that reflects current arguments 
+
+
+#### Questions when playing a historical game
+- Who is the villain?
+- Who is the hero?
+- Who matters in the story?
+- Who is left out?
+Interrogate silences. Decisions about who matters reflects political views. 
+
+
+#### Questions of mechanics:
+- Are the actions reasonable in the context of this era?
+- Are these actions meaningful within the context of the game (do they carry consequences)
+- Games set in the past may have VERY different mechanics
+- Sims vs shooters 
+- WHAT YOURE ALLOWED TO DO MATTERS
+
+THE GRAPHICS DON’T MATTER ONE BIT if it doesn’t effect that story line 
+Memory is part of our experience. Being hung up on graphics separates us from the history 
+
+Tera Copperstones 
+
+
+Path of honours
+
+Heroic role- dies
+
+Take risks and live 
+
+
